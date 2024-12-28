@@ -17,4 +17,6 @@ Graduate in Business Analytics (Major) & Computer Science (Minor) from the Unive
   
 </div>
 
+---
+
 ![](https://komarev.com/ghpvc/?username=DougStueby&color=blue)
