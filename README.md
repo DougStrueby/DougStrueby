@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Doug Strueby!
-Business Analytics Major & Computer Science Minor Graduate from University of Calgary
+Graduate in Business Analytics (Major) & Computer Science (Minor) from the University of Calgary
 
 
 ### **Languages/Tools:**
